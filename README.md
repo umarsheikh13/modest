@@ -1,6 +1,6 @@
 # Modest
 
-Modest is a simple minimal theme that houses all your posts in a clever speech bubble which loads your posts inifinitely. It's fully responsive and works on all devices and all the major browsers.
+Modest is a simple minimal theme that loads all your posts infinitely in a clever little speech bubble. It's fully responsive and works on all devices and all the major browsers.
 
 #### Colors
 
